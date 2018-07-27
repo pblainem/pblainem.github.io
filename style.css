@@ -1,0 +1,28 @@
+header{
+    background-color: rgb(0, 50, 0);
+    color: white;
+    margin: -20px;
+    margin-bottom: 0px;
+
+}
+
+h1{
+    text-align: center;
+    padding: 25px;
+    margin:0px;
+    border:0px
+}
+h2{
+    top: -20px;
+}
+
+#figure{
+    position: relative;
+    float: left;
+    margin: 25px;
+}
+
+#bio-name{
+    /* top:10px; */
+}
+
